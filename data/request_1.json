@@ -1,0 +1,401 @@
+{
+    "vertical_pos_info": null,
+    "latitude": 36.357898,
+    "lte_measurements": [
+        [
+            {
+                "rssi": 0,
+                "mnc": "05",
+                "rsrq": -8,
+                "net_type": 4,
+                "pci": 172,
+                "rsrp": -89,
+                "band": "2850",
+                "time": 1637326705638,
+                "mcc": "450",
+                "ta": 5,
+                "cid": "34582655"
+            },
+            {
+                "rssi": 0,
+                "mnc": "05",
+                "rsrq": -16,
+                "net_type": 0,
+                "pci": 86,
+                "rsrp": -94,
+                "band": "1350",
+                "time": 1637326705639,
+                "mcc": "450",
+                "ta": 0,
+                "cid": "0"
+            }
+        ]
+    ],
+    "coarse_pos_info": null,
+    "proto_ver": 0,
+    "session_id": "nothing",
+    "req_cellidtype": 1,
+    "request_time": 1637326709633,
+    "model_name": "SM-G973N",
+    "wifi_measurements": [
+        [
+            {
+                "rssi": -70,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "@Kumho.WiFi Free",
+                "mac": "24d13f16de4b"
+            },
+            {
+                "rssi": -74,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "SK_WiFiGIGAB594",
+                "mac": "085dddfab597"
+            },
+            {
+                "rssi": -76,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "",
+                "mac": "0a5dddfab597"
+            },
+            {
+                "rssi": -77,
+                "band": 50,
+                "time": 1637326708515,
+                "ssid": "@Kumho.WiFi Free 5G",
+                "mac": "24d13f16de4a"
+            },
+            {
+                "rssi": -78,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "iptime_noa",
+                "mac": "705dccebb530"
+            },
+            {
+                "rssi": -79,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "SK_WiFi2D3C",
+                "mac": "00271cc82d3e"
+            },
+            {
+                "rssi": -79,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "Home",
+                "mac": "909f33bf4dde"
+            },
+            {
+                "rssi": -80,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "ssuniv2G",
+                "mac": "000789cb3358"
+            },
+            {
+                "rssi": -82,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "pmcak25",
+                "mac": "909f33a4e8d2"
+            },
+            {
+                "rssi": -82,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "KT_GiGA_2G_Wave2_26F0",
+                "mac": "b4a94f1c26f4"
+            },
+            {
+                "rssi": -83,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "KT_GiGA_2G_DFF1",
+                "mac": "883c1c6fdff4"
+            },
+            {
+                "rssi": -84,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "Mobile",
+                "mac": "a2f69c2ed4cb"
+            },
+            {
+                "rssi": -84,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "olleh_WiFi_20C6",
+                "mac": "0007896e20c9"
+            },
+            {
+                "rssi": -84,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "KT_GiGA_2G_Wave2_DE08",
+                "mac": "b4a94f51de0c"
+            },
+            {
+                "rssi": -85,
+                "band": 24,
+                "time": 1637326708515,
+                "ssid": "SK_WiFiGIGA507B_2.4G",
+                "mac": "c6a94f75507e"
+            },
+            {
+                "rssi": -86,
+                "band": 24,
+                "time": 1637326708516,
+                "ssid": "",
+                "mac": "00120eef00a1"
+            },
+            {
+                "rssi": -87,
+                "band": 24,
+                "time": 1637326708516,
+                "ssid": "",
+                "mac": "8a3c1ce4266f"
+            },
+            {
+                "rssi": -87,
+                "band": 24,
+                "time": 1637326708516,
+                "ssid": "SK_WiFiGIGADD80",
+                "mac": "883c1ce8dd83"
+            },
+            {
+                "rssi": -87,
+                "band": 24,
+                "time": 1637326708516,
+                "ssid": "SK_WiFiGIGAFF10",
+                "mac": "0023aac1ff12"
+            },
+            {
+                "rssi": -88,
+                "band": 24,
+                "time": 1637326708516,
+                "ssid": "KT_GiGA_2G_F250",
+                "mac": "00078978f253"
+            },
+            {
+                "rssi": -89,
+                "band": 50,
+                "time": 1637326708516,
+                "ssid": "iptime5G",
+                "mac": "705dcc6ff72c"
+            },
+            {
+                "rssi": -89,
+                "band": 24,
+                "time": 1637326708516,
+                "ssid": "iptime",
+                "mac": "88366cd8da6a"
+            },
+            {
+                "rssi": -89,
+                "band": 24,
+                "time": 1637326708516,
+                "ssid": "SK_WiFiGIGADD80_2.4G",
+                "mac": "ba3c1ce8dd83"
+            },
+            {
+                "rssi": -90,
+                "band": 50,
+                "time": 1637326708516,
+                "ssid": "NETGEAR05-5G",
+                "mac": "10da439290c5"
+            },
+            {
+                "rssi": -92,
+                "band": 50,
+                "time": 1637326708516,
+                "ssid": "SK_WiFiGIGAB594_5G",
+                "mac": "085dddfab596"
+            },
+            {
+                "rssi": -93,
+                "band": 50,
+                "time": 1637326708516,
+                "ssid": "olleh_GiGA_WiFi_471E",
+                "mac": "0007896d4722"
+            },
+            {
+                "rssi": -93,
+                "band": 50,
+                "time": 1637326708516,
+                "ssid": "SK_WiFiGIGAB594",
+                "mac": "3a5dddfab596"
+            },
+            {
+                "rssi": -95,
+                "band": 50,
+                "time": 1637326708516,
+                "ssid": "",
+                "mac": "c6a94f3a410b"
+            },
+            {
+                "rssi": -96,
+                "band": 50,
+                "time": 1637326708516,
+                "ssid": "KT_GiGA_5G_Wave2_4108",
+                "mac": "b4a94f3a410b"
+            }
+        ]
+    ],
+    "gnss": [
+        null
+    ],
+    "sensor": null,
+    "req_posmethod": "CellID",
+    "longitude": 127.390217,
+    "bluetooth_measurements": [
+        [
+            {
+                "rssi": -78,
+                "major": "19481",
+                "minor": "52194",
+                "time": 1637326708656,
+                "uuid": "0012ad97-a7e7-95f2-35fc-c8b33bfce5b0",
+                "mac": "E455F1935FFF"
+            },
+            {
+                "rssi": -89,
+                "major": "0",
+                "minor": "38248",
+                "time": 1637326708656,
+                "uuid": "74278bda-b644-4520-8f0c-720eaf059935",
+                "mac": "84EE03E446B6"
+            },
+            {
+                "rssi": -92,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "007C2DF37F49"
+            },
+            {
+                "rssi": -84,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "24E85382A7BD"
+            },
+            {
+                "rssi": -91,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "33936E9CAF74"
+            },
+            {
+                "rssi": -88,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "4C24982CD9AB"
+            },
+            {
+                "rssi": -80,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "50F1BD6DA765"
+            },
+            {
+                "rssi": -90,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "5352B5AA5306"
+            },
+            {
+                "rssi": -89,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "542C608CACB4"
+            },
+            {
+                "rssi": -92,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "66E58CEAE406"
+            },
+            {
+                "rssi": -92,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "67BCA06ED7C5"
+            },
+            {
+                "rssi": -82,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "72B2C7340D8C"
+            },
+            {
+                "rssi": -92,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "7765EAED567E"
+            },
+            {
+                "rssi": -89,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "7BC2816BA3EE"
+            },
+            {
+                "rssi": -69,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "E24C0241FFB7"
+            },
+            {
+                "rssi": -93,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "E638191CDC1D"
+            },
+            {
+                "rssi": -92,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "F51CE535FBFF"
+            },
+            {
+                "rssi": -88,
+                "major": "0",
+                "minor": "0",
+                "time": 1637326708656,
+                "uuid": "",
+                "mac": "FC8F90AA98CE"
+            }
+        ]
+    ]
+}
